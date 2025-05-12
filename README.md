@@ -13,7 +13,6 @@ The objective of this project is to build a classification model that predicts t
 ## 🚀 Features
 
 * Predict heart disease based on health indicators.
-* Classify individuals as high-risk or low-risk for heart disease.
 * Provide actionable insights for early intervention.
 
 ## 🛠️ Tech Stack
