@@ -15,6 +15,8 @@ The objective of this project is to build a classification model that predicts t
 * Predict heart disease based on health indicators.
 * Provide actionable insights for early intervention.
 
+**💬 Live Demo: https://early-disease-detection-jasleen.streamlit.app/**
+
 ## 🛠️ Tech Stack
 
 * **Programming Language:** Python
