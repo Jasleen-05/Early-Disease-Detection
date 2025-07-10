@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 st.set_page_config(page_title="Heart Disease Prediction", layout="wide")
 
 # Title
-st.title("❤️ Heart Disease Prediction App")
+st.title("Early Disease Prediction App")
 st.markdown("Upload a dataset and predict whether an individual is likely to have heart disease.")
 
 # Upload CSV
